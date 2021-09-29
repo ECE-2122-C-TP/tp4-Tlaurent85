@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sebastienlaurent/CLionProjects/exo1TD4/fonction.c
+stdio.h
+/Users/sebastienlaurent/CLionProjects/exo1TD4/stdio.h
+fonction.h
+/Users/sebastienlaurent/CLionProjects/exo1TD4/fonction.h
+
+/Users/sebastienlaurent/CLionProjects/exo1TD4/fonction.h
+
